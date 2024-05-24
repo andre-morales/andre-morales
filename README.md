@@ -7,7 +7,19 @@ I've been programming for over 10 years now, I love what I do and plan on keep d
 
 I'm currently an undergraduate at USP on the course of Sistemas de Informação.
 
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=andre-morales&hide_border=true&rank_icon=github&show_icons=true&theme=transparent)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=andre-morales&theme=transparent&hide_border=true)
+
+</div>
+
 ## 📚 Languages and Technologies I'm experienced with
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-morales&layout=donut&theme=github_dark&bg_color=00000000&hide_border=true)
+
+
 - Web development using standard **HTML5**, **CSS**, **JS**
 - Web apps using **NodeJS**, including **Express**
 - Development of **Java** UI apps, CLI apps, and custom tools
@@ -24,7 +36,11 @@ I'm currently an undergraduate at USP on the course of Sistemas de Informação.
 
 ## 🌱 Ideas being explored
 - Web apps using modern language and tools stack (**React**, **Node**, etc.)
-- **Python** development
+- Competitive **Python** in Competitions and Hackatons
 - **Rust** development
-- Development of hobby operating systems
-- Custom graphics engines for sandbox games
+
+<div align="center">
+
+
+
+</div>
