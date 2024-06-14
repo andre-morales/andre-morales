@@ -16,7 +16,7 @@ I'm currently an undergraduate at USP on the course of Sistemas de Informação.
 </div>
 
 ## 📚 Languages and Technologies I'm experienced with
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-morales&layout=donut&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-morales&layout=donut&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=5)
 
 
 - Web development using standard **HTML5**, **CSS**, **JS**
