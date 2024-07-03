@@ -37,3 +37,5 @@ I'm currently an undergraduate at USP on the course of Sistemas de Informação.
 - Web apps using modern language and tools stack (**React**, **Node**, etc.)
 - Competitive **Python** in Competitions and Hackatons
 - **Rust** development
+
+![](https://komarev.com/ghpvc/?username=andre-morales)
