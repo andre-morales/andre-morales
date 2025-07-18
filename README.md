@@ -3,7 +3,7 @@
 Welcome to my README.
 
 ## ❓ Who am I?
-I've been programming for over 10 years now, I love what I do and plan on keep doing it as a career.
+I've been programming for over 9 years now, I love what I do and plan on keep doing it as a career.
 
 I'm currently an undergraduate at USP on the course of Sistemas de Informação.
 
