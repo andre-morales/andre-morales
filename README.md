@@ -19,13 +19,12 @@ I'm currently a professional software engineer consultant and an undergraduate a
 ![Top Languages](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=andre-morales&layout=donut&theme=github_dark&bg_color=00000000&hide_border=true&langs_count=5)
 
 
-- Web development using standard **HTML5**, **CSS**, **JS**
-- Web apps using **NodeJS**, including **Express**
+- Web apps using **Google's Wiz**, **NodeJS**, **Svelte** and **Express**
+- Web build systems such as **Webpack**, **ESBuild**, and **SWC**
 - Development of **Java** UI apps, CLI apps, and custom tools
 - **Arduino** programming and electronics
 - Graphics pipelines and graphics programming using **OpenGL** with **C**, **C++**
 - Low-level programming using bare metal languages such as **Assembly**, **C**, **C++**
-- The **Unity** Game engine
 
 ## 🔨 Tools and Techniques I'm good with
 - **Linux**-based OSes, management, toolchains and commands
@@ -34,7 +33,6 @@ I'm currently a professional software engineer consultant and an undergraduate a
 - Library development, standardization and most importantly, **documentation**
 
 ## 🌱 Ideas being explored
-- Web apps using modern language and tools stack (**React**, **Node**, etc.)
 - Competitive **Python** in Competitions and Hackatons
 - **Rust** development
 
